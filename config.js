@@ -47,31 +47,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/kahfiofc0' //Link Instagrammu
-global.sgh = 'https://github.com/Maxxy-Md' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.sig = 'https://instagram.com/geshrfd' //Link Instagrammu
+global.sgh = 'https://github.com/gesha20129' //Link Githubmu
+global.sgc = '-'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282' //Nomor Danamu
-global.ppulsa = '085295374964' //Nomor SimCard Yang Kamu Pake
+global.pdana = '085891318105' //Nomor Danamu
+global.ppulsa = '085891318105' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://github.com/MaxxyBotz' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964' //Nomor Bot
-global.nomorown = '6285380166282' //Nomor Owner
-global.namebot = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯' //Nama Bot
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 ' // Nama Owner
+global.nomorbot = '6285894141273' //Nomor Bot
+global.nomorown = '6285891318105' //Nomor Owner
+global.namebot = 'Anu Botzzz' //Nama Bot
+global.nameown = 'Gesha ' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285891318105', 'Gesha Owner', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods =   ['6285380166282'] // Want some help?
-global.prems =  ['6285380166282'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods =   ['6285891318105'] // Want some help?
+global.prems =  ['6285891318105'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 global.lolkey = 'apikeymu'
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯  汉  」' //Main Watermark
-global.wm2 = '˘𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
-global.wm3 = '⫹⫺ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 '
+global.wm = '                Anu Botzz' //Main Watermark
+global.wm2 = 'Anu Botzz'
+global.wm3 = '⫹⫺ Anu Botz '
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
