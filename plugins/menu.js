@@ -263,9 +263,9 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
 	    {title: `📛)ഒ Info Bot`, rowId: ".info", description: "✧ Info nya 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯  ><"},
 	    {title: `💌)ഒ Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
 	{title: `🗣)ഒ Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
-	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status 赤 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 "},
+	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status Anu Bot "},
 	{title: `📊)ഒ Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
-	{title: `⚡)ഒ Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 "},
+	{title: `⚡)ഒ Speed`, rowId: ".speed", description: "✧ Kecepatan Respon Anu Bot "},
 	]
     },{
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
